@@ -18,7 +18,7 @@ All scanning operations run in **read-only mode** — your original database fil
 - MySQL 5.7
 - MySQL 8.0
 - MySQL 9.0
-
+--mariadb all ver
 **Storage engine:** InnoDB
 
 ## Core Capabilities
